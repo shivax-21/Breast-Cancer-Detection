@@ -31,7 +31,7 @@ cd Breast-cancer-Detection
 pip install numpy pandas scikit-learn
 ```
 ## Usage
-1. Download the Dataset: Make sure you have the Kaggle dataset file [this](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) in the same as used the notebook and metion in the repositosy `data.csv`.
+1. Download the Dataset: Make sure you have the Kaggle dataset file [this](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) in the same as used the notebook and mention in the repositosy `data.csv`.
 
 2. Launch Jupyter Notebook:
 ``` bash
